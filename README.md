@@ -12,6 +12,6 @@
 
 There are two options for accessing the data.
 
-1. Download data as Excel file.
+1. Download data as Excel file (including Data Brief and Data Dictionary)
 
 2. Clone repo with `git clone https://github.com/joseph-TC/WD_Hackathon_repo` and open folder on your machine. 
