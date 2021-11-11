@@ -4,7 +4,7 @@
 
 ## Documentation:
 
-- ![Data Brief](https://github.com/joseph-TC/WD_Hackathon_repo/blob/main/Data%20Brief%20(2021).pdf) 
+- [Data Brief](https://github.com/joseph-TC/WD_Hackathon_repo/blob/main/Data%20Brief%20(2021).pdf) 
 
 ## Data Download
 
