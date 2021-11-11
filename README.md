@@ -1,2 +1,3 @@
 # Women + Data Hackathon 
-A repo for the Women + Data Hackathon (hosted by Truecue)
+
+![alt text](https://github.com/joseph-TC/WD_Hackathon_repo/Hackathon 2021.png)
