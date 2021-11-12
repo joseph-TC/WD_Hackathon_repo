@@ -14,8 +14,8 @@ There are a couple of options for accessing the data.
 
 1. Download data as Excel file 
 
-2. Clone repo from bash/terminal with `git clone https://github.com/joseph-TC/WD_Hackathon_repo` and access all folder contents on your machine. 
+2. Clone repo from bash/terminal with: `git clone https://github.com/joseph-TC/WD_Hackathon_repo` and access all folder contents on your machine. 
 
-3. Load data into Python  Pandas with 
+3. Load data into Python  Pandas with:
 - `url = 'https://github.com/joseph-TC/WD_Hackathon_repo/blob/main/Sustainability%20Hackathon%20Dataset.csv'`
 - `df = pd.read_csv(url)`
