@@ -16,6 +16,6 @@ There are a couple of options for accessing the data.
 
 2. Clone repo from bash/terminal with `git clone https://github.com/joseph-TC/WD_Hackathon_repo` and access all folder contents on your machine. 
 
-3. Load data into Python `Panda`s with 
-`url = 'https://raw.githubusercontent.com/hxchua/datadoubleconfirm/master/datasets/arrivals2018.csv'`
-`df = pd.read_csv(url, error_bad_lines=False)`
+3. Load data into Python Pandas with 
+`url = 'https://github.com/joseph-TC/WD_Hackathon_repo/blob/main/Sustainability%20Hackathon%20Dataset.csv'
+`df = pd.read_csv(url)`
